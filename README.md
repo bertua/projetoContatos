@@ -1,4 +1,7 @@
 # projetoContatos
 projeto para gerenciar contatos
 
-abrir em netbeans java swing
+executar projeto.java
+contatos salvos em categorias.json
+
+abrir em netbeans, java swing
